@@ -1,4 +1,4 @@
-# MCP Agent with Gemini Integration (Session 4 Assignment)
+# MCP Agent with Gemini Integration
 
 ## Overview
 
